@@ -1,0 +1,75 @@
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif ;
+  background-color: #fcceaa;
+
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #27363b;
+  border-radius: 0;
+  border: 0;
+  height:  100px;
+}
+#collapsable-nav li {
+  background-color: #ffefd7;
+
+}
+#FoodLLC  { /* Restaurant name */
+  float: left;
+  font-size: 4em;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 0;
+  color: white;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+  margin-top: 15px;
+}
+#nav-list div {
+  font-size: 3em;
+  text-align: center;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid white;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+/* END HEADER */
+
+
+/* HOME PAGE */
+
+#chicken {
+  box-sizing: border-box;
+  float: left;
+  background-color: #9ab999;
+  width: 100%;
+  height: auto;
+  color: black;
+  font-size: 1.5em;
+}
+
+#chicken div:nth-child(2) {
+  font-size: .75em;
+}
+
+.lorem {
+  padding: 5px;
+}
+
+.row {
+  width: 100%;
+  margin: 30px 0 0 0;
+}
+/* END HOME PAGE */
+
+
+
+
